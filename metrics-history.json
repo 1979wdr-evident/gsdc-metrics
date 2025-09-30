@@ -130,5 +130,16 @@
     "New_Value": "72",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2025-09-30T20:31:20.024Z",
+    "Submitter": "Wes Rich",
+    "Metric_ID": "P1_Messaging_Toolkit",
+    "Metric_Name": "Partners Using Messaging Toolkit (%)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Current_Actual",
+    "New_Value": "37",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
