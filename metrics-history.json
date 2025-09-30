@@ -1,0 +1,13 @@
+[
+  {
+    "Timestamp": "2025-09-30T16:27:27.582Z",
+    "Submitter": "Wes Rich",
+    "Metric_ID": "P1_Messaging_Toolkit",
+    "Metric_Name": "Partners Using Messaging Toolkit (%)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "39",
+    "Data_Type": "Percentage",
+    "Notes": "testing github connection"
+  }
+]
