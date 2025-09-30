@@ -20,5 +20,16 @@
     "New_Value": "65",
     "Data_Type": "Percentage",
     "Notes": "testy"
+  },
+  {
+    "Timestamp": "2025-09-30T16:38:46.160Z",
+    "Submitter": "Wes Rich",
+    "Metric_ID": "SA3_Joint_Grants",
+    "Metric_Name": "Joint Grant Applications Growth (%)",
+    "Pillar_Category": "Strategic Addition 3",
+    "Update_Type": "Baseline",
+    "New_Value": "27",
+    "Data_Type": "Percentage",
+    "Notes": "testing git"
   }
 ]
