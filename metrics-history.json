@@ -141,5 +141,16 @@
     "New_Value": "37",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2025-09-30T20:33:01.310Z",
+    "Submitter": "Wes Rich",
+    "Metric_ID": "SA4_Housing_Units",
+    "Metric_Name": "Housing Units Added/Unlocked (count)",
+    "Pillar_Category": "Strategic Addition 4",
+    "Update_Type": "Baseline",
+    "New_Value": "150",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
