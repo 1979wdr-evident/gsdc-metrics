@@ -31,5 +31,16 @@
     "New_Value": "27",
     "Data_Type": "Percentage",
     "Notes": "testing git"
+  },
+  {
+    "Timestamp": "2025-09-30T16:58:07.584Z",
+    "Submitter": "Wes Rich",
+    "Metric_ID": "P2_Startups_Growth",
+    "Metric_Name": "Startups Supported Growth (%)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "37",
+    "Data_Type": "Percentage",
+    "Notes": "testing"
   }
 ]
