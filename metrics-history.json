@@ -185,5 +185,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-01-22T16:24:53.550Z",
+    "Submitter": "Wes Rich",
+    "Metric_ID": "P1_Civic_Onboarding",
+    "Metric_Name": "Civic Leaders Onboarded Within 60 Days (%)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "20",
+    "Data_Type": "Percentage",
+    "Notes": "test update"
   }
 ]
