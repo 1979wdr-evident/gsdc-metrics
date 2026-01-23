@@ -1,46 +1,57 @@
 [
   {
-    "Timestamp": "2026-01-23T00:00:00.000Z",
+    "Timestamp": "2026-01-01T00:00:00.000Z",
     "Submitter": "System",
     "Metric_ID": "P1_Messaging_Toolkit",
     "Metric_Name": "Partners Using Messaging Toolkit (%)",
     "Pillar_Category": "Pillar 1",
-    "Update_Type": "Target",
-    "New_Value": "75",
+    "Update_Type": "Growth_Rate",
+    "New_Value": "10",
     "Data_Type": "Percentage",
-    "Notes": "Initial target set"
+    "Notes": "Initial growth target set"
   },
   {
-    "Timestamp": "2026-01-23T00:00:00.000Z",
-    "Submitter": "System",
-    "Metric_ID": "P2_Startups_Growth",
-    "Metric_Name": "Startups Supported Growth (%)",
-    "Pillar_Category": "Pillar 2",
-    "Update_Type": "Target",
-    "New_Value": "40",
-    "Data_Type": "Percentage",
-    "Notes": "Initial target set"
-  },
-  {
-    "Timestamp": "2026-01-23T00:00:00.000Z",
-    "Submitter": "System",
-    "Metric_ID": "SA4_Housing_Units",
-    "Metric_Name": "Housing Units Added/Unlocked (count)",
-    "Pillar_Category": "Strategic Addition 4",
-    "Update_Type": "Target",
-    "New_Value": "300",
-    "Data_Type": "Count",
-    "Notes": "Initial target set"
-  },
-  {
-    "Timestamp": "2026-01-23T00:00:00.000Z",
+    "Timestamp": "2026-01-01T00:00:00.000Z",
     "Submitter": "System",
     "Metric_ID": "P1_Civic_Onboarding",
     "Metric_Name": "Civic Leaders Onboarded Within 60 Days (%)",
     "Pillar_Category": "Pillar 1",
-    "Update_Type": "Target",
-    "New_Value": "60",
+    "Update_Type": "Growth_Rate",
+    "New_Value": "10",
     "Data_Type": "Percentage",
-    "Notes": "Initial target set"
+    "Notes": "Initial growth target set"
+  },
+  {
+    "Timestamp": "2026-01-01T00:00:00.000Z",
+    "Submitter": "System",
+    "Metric_ID": "P2_Startups_Growth",
+    "Metric_Name": "Startups Supported Growth (%)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Growth_Rate",
+    "New_Value": "25",
+    "Data_Type": "Percentage",
+    "Notes": "Initial growth target set"
+  },
+  {
+    "Timestamp": "2026-01-01T00:00:00.000Z",
+    "Submitter": "System",
+    "Metric_ID": "SA3_Joint_Grants",
+    "Metric_Name": "Joint Grant Applications Growth (%)",
+    "Pillar_Category": "Strategic Addition 3",
+    "Update_Type": "Growth_Rate",
+    "New_Value": "30",
+    "Data_Type": "Percentage",
+    "Notes": "Initial growth target set"
+  },
+  {
+    "Timestamp": "2026-01-01T00:00:00.000Z",
+    "Submitter": "System",
+    "Metric_ID": "SA4_Housing_Units",
+    "Metric_Name": "Housing Units Added/Unlocked (count)",
+    "Pillar_Category": "Strategic Addition 4",
+    "Update_Type": "Growth_Rate",
+    "New_Value": "500",
+    "Data_Type": "Count",
+    "Notes": "Initial cumulative target set"
   }
 ]
