@@ -1,79 +1,46 @@
 [
   {
-    "Timestamp": "2025-09-30T17:34:05.011Z",
-    "Submitter": "Wes Rich",
+    "Timestamp": "2026-01-23T00:00:00.000Z",
+    "Submitter": "System",
     "Metric_ID": "P1_Messaging_Toolkit",
     "Metric_Name": "Partners Using Messaging Toolkit (%)",
     "Pillar_Category": "Pillar 1",
-    "Update_Type": "Baseline",
-    "New_Value": "34",
+    "Update_Type": "Target",
+    "New_Value": "75",
     "Data_Type": "Percentage",
-    "Notes": ""
+    "Notes": "Initial target set"
   },
   {
-    "Timestamp": "2025-09-30T20:31:20.024Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Current_Actual",
-    "New_Value": "37",
-    "Data_Type": "Percentage",
-    "Notes": ""
-  },
-  {
-    "Timestamp": "2025-09-30T20:30:02.473Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Growth_Rate",
-    "New_Value": "72",
-    "Data_Type": "Percentage",
-    "Notes": ""
-  },
-  {
-    "Timestamp": "2025-09-30T17:39:37.069Z",
-    "Submitter": "Wes Rich",
+    "Timestamp": "2026-01-23T00:00:00.000Z",
+    "Submitter": "System",
     "Metric_ID": "P2_Startups_Growth",
     "Metric_Name": "Startups Supported Growth (%)",
     "Pillar_Category": "Pillar 2",
-    "Update_Type": "Baseline",
-    "New_Value": "12",
+    "Update_Type": "Target",
+    "New_Value": "40",
     "Data_Type": "Percentage",
-    "Notes": ""
+    "Notes": "Initial target set"
   },
   {
-    "Timestamp": "2025-09-30T20:33:01.310Z",
-    "Submitter": "Wes Rich",
+    "Timestamp": "2026-01-23T00:00:00.000Z",
+    "Submitter": "System",
     "Metric_ID": "SA4_Housing_Units",
     "Metric_Name": "Housing Units Added/Unlocked (count)",
     "Pillar_Category": "Strategic Addition 4",
-    "Update_Type": "Baseline",
-    "New_Value": "150",
+    "Update_Type": "Target",
+    "New_Value": "300",
     "Data_Type": "Count",
-    "Notes": ""
+    "Notes": "Initial target set"
   },
   {
-    "Timestamp": "2025-09-30T20:33:37.621Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "SA4_Housing_Units",
-    "Metric_Name": "Housing Units Added/Unlocked (count)",
-    "Pillar_Category": "Strategic Addition 4",
-    "Update_Type": "Current_Actual",
-    "New_Value": "220",
-    "Data_Type": "Count",
-    "Notes": ""
-  },
-  {
-    "Timestamp": "2026-01-22T16:24:53.550Z",
-    "Submitter": "Wes Rich",
+    "Timestamp": "2026-01-23T00:00:00.000Z",
+    "Submitter": "System",
     "Metric_ID": "P1_Civic_Onboarding",
     "Metric_Name": "Civic Leaders Onboarded Within 60 Days (%)",
     "Pillar_Category": "Pillar 1",
-    "Update_Type": "Baseline",
-    "New_Value": "20",
+    "Update_Type": "Target",
+    "New_Value": "60",
     "Data_Type": "Percentage",
-    "Notes": "initial baseline"
+    "Notes": "Initial target set"
   }
 ]
