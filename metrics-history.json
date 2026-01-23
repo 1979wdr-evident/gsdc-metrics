@@ -1,82 +1,5 @@
 [
   {
-    "Timestamp": "2025-09-30T16:27:27.582Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Baseline",
-    "New_Value": "39",
-    "Data_Type": "Percentage",
-    "Notes": "testing github connection"
-  },
-  {
-    "Timestamp": "2025-09-30T16:32:04.967Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Current_Actual",
-    "New_Value": "65",
-    "Data_Type": "Percentage",
-    "Notes": "testy"
-  },
-  {
-    "Timestamp": "2025-09-30T16:38:46.160Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "SA3_Joint_Grants",
-    "Metric_Name": "Joint Grant Applications Growth (%)",
-    "Pillar_Category": "Strategic Addition 3",
-    "Update_Type": "Baseline",
-    "New_Value": "27",
-    "Data_Type": "Percentage",
-    "Notes": "testing git"
-  },
-  {
-    "Timestamp": "2025-09-30T16:58:07.584Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P2_Startups_Growth",
-    "Metric_Name": "Startups Supported Growth (%)",
-    "Pillar_Category": "Pillar 2",
-    "Update_Type": "Baseline",
-    "New_Value": "37",
-    "Data_Type": "Percentage",
-    "Notes": "testing"
-  },
-  {
-    "Timestamp": "2025-09-30T16:59:47.618Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Baseline",
-    "New_Value": "37",
-    "Data_Type": "Percentage",
-    "Notes": "update test"
-  },
-  {
-    "Timestamp": "2025-09-30T17:21:29.675Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Current_Actual",
-    "New_Value": "34",
-    "Data_Type": "Percentage",
-    "Notes": "testing"
-  },
-  {
-    "Timestamp": "2025-09-30T17:29:22.718Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Baseline",
-    "New_Value": "50",
-    "Data_Type": "Percentage",
-    "Notes": ""
-  },
-  {
     "Timestamp": "2025-09-30T17:34:05.011Z",
     "Submitter": "Wes Rich",
     "Metric_ID": "P1_Messaging_Toolkit",
@@ -88,35 +11,13 @@
     "Notes": ""
   },
   {
-    "Timestamp": "2025-09-30T17:39:37.069Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P2_Startups_Growth",
-    "Metric_Name": "Startups Supported Growth (%)",
-    "Pillar_Category": "Pillar 2",
-    "Update_Type": "Baseline",
-    "New_Value": "12",
-    "Data_Type": "Percentage",
-    "Notes": ""
-  },
-  {
-    "Timestamp": "2025-09-30T18:11:52.653Z",
+    "Timestamp": "2025-09-30T20:31:20.024Z",
     "Submitter": "Wes Rich",
     "Metric_ID": "P1_Messaging_Toolkit",
     "Metric_Name": "Partners Using Messaging Toolkit (%)",
     "Pillar_Category": "Pillar 1",
-    "Update_Type": "Growth_Rate",
-    "New_Value": "75",
-    "Data_Type": "Percentage",
-    "Notes": ""
-  },
-  {
-    "Timestamp": "2025-09-30T20:18:41.920Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Growth_Rate",
-    "New_Value": "56",
+    "Update_Type": "Current_Actual",
+    "New_Value": "37",
     "Data_Type": "Percentage",
     "Notes": ""
   },
@@ -132,13 +33,13 @@
     "Notes": ""
   },
   {
-    "Timestamp": "2025-09-30T20:31:20.024Z",
+    "Timestamp": "2025-09-30T17:39:37.069Z",
     "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Current_Actual",
-    "New_Value": "37",
+    "Metric_ID": "P2_Startups_Growth",
+    "Metric_Name": "Startups Supported Growth (%)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "12",
     "Data_Type": "Percentage",
     "Notes": ""
   },
@@ -165,28 +66,6 @@
     "Notes": ""
   },
   {
-    "Timestamp": "2025-10-08T16:54:27.605Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Baseline",
-    "New_Value": "45",
-    "Data_Type": "Percentage",
-    "Notes": "10/8 test"
-  },
-  {
-    "Timestamp": "2025-10-08T20:32:28.185Z",
-    "Submitter": "Wes Rich",
-    "Metric_ID": "P1_Messaging_Toolkit",
-    "Metric_Name": "Partners Using Messaging Toolkit (%)",
-    "Pillar_Category": "Pillar 1",
-    "Update_Type": "Current_Actual",
-    "New_Value": "0",
-    "Data_Type": "Percentage",
-    "Notes": ""
-  },
-  {
     "Timestamp": "2026-01-22T16:24:53.550Z",
     "Submitter": "Wes Rich",
     "Metric_ID": "P1_Civic_Onboarding",
@@ -195,6 +74,6 @@
     "Update_Type": "Baseline",
     "New_Value": "20",
     "Data_Type": "Percentage",
-    "Notes": "test update"
+    "Notes": "initial baseline"
   }
 ]
