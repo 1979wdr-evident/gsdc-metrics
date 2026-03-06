@@ -53,5 +53,16 @@
     "New_Value": "500",
     "Data_Type": "Count",
     "Notes": "Initial cumulative target set"
+  },
+  {
+    "Timestamp": "2026-03-06T15:35:42.754Z",
+    "Submitter": "NB",
+    "Metric_ID": "P3_Investor_Retention",
+    "Metric_Name": "Investor Retention Rate (%)",
+    "Pillar_Category": "Pillar 3",
+    "Update_Type": "Current_Actual",
+    "New_Value": "85",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
