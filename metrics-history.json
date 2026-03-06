@@ -64,5 +64,16 @@
     "New_Value": "85",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-06T15:37:14.500Z",
+    "Submitter": "NB",
+    "Metric_ID": "P3_Investor_Retention",
+    "Metric_Name": "Investor Retention Rate (%)",
+    "Pillar_Category": "Pillar 3",
+    "Update_Type": "Baseline",
+    "New_Value": "82",
+    "Data_Type": "Percentage",
+    "Notes": "Baseline ending 2025"
   }
 ]
