@@ -108,5 +108,16 @@
     "New_Value": "22",
     "Data_Type": "Count",
     "Notes": "End of FEB"
+  },
+  {
+    "Timestamp": "2026-03-06T15:43:30.021Z",
+    "Submitter": "NB",
+    "Metric_ID": "P2_BRE_Visits",
+    "Metric_Name": "Annual BRE Visits (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "141",
+    "Data_Type": "Count",
+    "Notes": "Baseline ending 2025"
   }
 ]
