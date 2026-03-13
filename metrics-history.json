@@ -592,5 +592,16 @@
     "New_Value": "0",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:14:30.634Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA2_Pipeline_Growth",
+    "Metric_Name": "Students/Workers Pipeline Growth (%)",
+    "Pillar_Category": "Strategic Addition 2",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
