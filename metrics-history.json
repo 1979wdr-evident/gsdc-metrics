@@ -845,5 +845,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:27:33.426Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_Capital_Access",
+    "Metric_Name": "Businesses Receiving Capital Access Support (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
