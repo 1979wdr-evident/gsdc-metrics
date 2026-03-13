@@ -603,5 +603,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:15:11.668Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA3_Joint_Grants",
+    "Metric_Name": "Joint Grant Applications Growth (%)",
+    "Pillar_Category": "Strategic Addition 3",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
