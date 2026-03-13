@@ -493,5 +493,16 @@
     "New_Value": "1",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:09:41.159Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA1_Leader_Onboarding",
+    "Metric_Name": "Leaders Onboarded Within 60 Days (%)",
+    "Pillar_Category": "Strategic Addition 1",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
