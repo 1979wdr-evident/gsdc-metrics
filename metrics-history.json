@@ -383,5 +383,16 @@
     "New_Value": "1",
     "Data_Type": "Count",
     "Notes": "department of labor youth build grant - submitted march 2026"
+  },
+  {
+    "Timestamp": "2026-03-13T14:52:13.403Z",
+    "Submitter": "TC",
+    "Metric_ID": "P1_Cross_Jurisdictional",
+    "Metric_Name": "Infrastructure Projects with Cross-jurisdictional Support (%)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "1",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
