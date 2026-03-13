@@ -614,5 +614,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:15:37.866Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA3_Tech_Assistance",
+    "Metric_Name": "Technical Assistance Usage Growth (%)",
+    "Pillar_Category": "Strategic Addition 3",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
