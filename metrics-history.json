@@ -196,5 +196,16 @@
     "New_Value": "22",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:36:02.147Z",
+    "Submitter": "TC",
+    "Metric_ID": "P3_Investor_Retention",
+    "Metric_Name": "Investor Retention Rate (%)",
+    "Pillar_Category": "Pillar 3",
+    "Update_Type": "Baseline",
+    "New_Value": "82",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
