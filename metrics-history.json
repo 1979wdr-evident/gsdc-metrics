@@ -394,5 +394,16 @@
     "New_Value": "1",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:53:01.397Z",
+    "Submitter": "TC",
+    "Metric_ID": "P1_Priority_Projects",
+    "Metric_Name": "Priority Infrastructure Projects Tracked (count)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
