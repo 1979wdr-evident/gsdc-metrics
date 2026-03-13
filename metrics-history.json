@@ -240,5 +240,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:39:23.763Z",
+    "Submitter": "TC",
+    "Metric_ID": "P3_ROI_Forums",
+    "Metric_Name": "Strategic ROI Forums Held (count)",
+    "Pillar_Category": "Pillar 3",
+    "Update_Type": "Baseline",
+    "New_Value": "2",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
