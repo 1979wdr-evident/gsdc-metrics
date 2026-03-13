@@ -504,5 +504,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:10:27.403Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA1_Policy_Briefings",
+    "Metric_Name": "Policy Pulse Briefings Held (count)",
+    "Pillar_Category": "Strategic Addition 1",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
