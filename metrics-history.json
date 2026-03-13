@@ -746,5 +746,16 @@
     "New_Value": "0",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:23:12.112Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA4_Housing_Units",
+    "Metric_Name": "Housing Units Added/Unlocked (count)",
+    "Pillar_Category": "Strategic Addition 4",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
