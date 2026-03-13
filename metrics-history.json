@@ -768,5 +768,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:23:52.632Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA4_Infrastructure_Alignment",
+    "Metric_Name": "Infrastructure-Housing Alignment Growth (%)",
+    "Pillar_Category": "Strategic Addition 4",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
