@@ -801,5 +801,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:25:12.872Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA5_Internship_Growth",
+    "Metric_Name": "Internship Placement Growth (%)",
+    "Pillar_Category": "Strategic Addition 5",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
