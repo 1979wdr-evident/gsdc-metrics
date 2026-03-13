@@ -900,5 +900,16 @@
     "New_Value": "0",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:30:10.567Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_BRE_Briefings",
+    "Metric_Name": "BRE Briefing Sheets Produced (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
