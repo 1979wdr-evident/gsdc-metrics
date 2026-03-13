@@ -262,5 +262,16 @@
     "New_Value": "2",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:41:52.382Z",
+    "Submitter": "TC",
+    "Metric_ID": "P3_Satisfaction_Rating",
+    "Metric_Name": "ROI Satisfaction Rating (1-5)",
+    "Pillar_Category": "Pillar 3",
+    "Update_Type": "Baseline",
+    "New_Value": "1",
+    "Data_Type": "Rating",
+    "Notes": ""
   }
 ]
