@@ -834,5 +834,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:27:07.829Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_Startups_Growth",
+    "Metric_Name": "Startups Supported Growth (%)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
