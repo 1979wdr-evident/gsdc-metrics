@@ -482,5 +482,16 @@
     "New_Value": "0",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:59:34.941Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA2_Sector_Roundtables",
+    "Metric_Name": "Active Sector Roundtables (count)",
+    "Pillar_Category": "Strategic Addition 2",
+    "Update_Type": "Current_Actual",
+    "New_Value": "1",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
