@@ -174,5 +174,16 @@
     "New_Value": "2",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:28:22.873Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_BRE_Visits",
+    "Metric_Name": "Annual BRE Visits (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "100",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
