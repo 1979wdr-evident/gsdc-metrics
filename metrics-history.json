@@ -317,5 +317,16 @@
     "New_Value": "1",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:47:48.069Z",
+    "Submitter": "TC",
+    "Metric_ID": "P1_Roundtable_Attendance",
+    "Metric_Name": "Roundtable Attendance Rate (%)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "1",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
