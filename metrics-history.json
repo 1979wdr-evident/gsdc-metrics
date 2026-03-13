@@ -427,5 +427,16 @@
     "New_Value": "1",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:54:54.239Z",
+    "Submitter": "TC",
+    "Metric_ID": "P1_Infrastructure_Funding",
+    "Metric_Name": "Infrastructure Funding Secured ($)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Dollar",
+    "Notes": ""
   }
 ]
