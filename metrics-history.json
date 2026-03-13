@@ -636,5 +636,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:16:39.494Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA3_Council_Retention",
+    "Metric_Name": "Council Participation Retention (%)",
+    "Pillar_Category": "Strategic Addition 3",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
