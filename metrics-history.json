@@ -878,5 +878,16 @@
     "New_Value": "0",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:29:22.016Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_Business_Transitions",
+    "Metric_Name": "Business Transitions Supported (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
