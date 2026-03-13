@@ -856,5 +856,16 @@
     "New_Value": "0",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T15:27:55.967Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_Succession_Downloads",
+    "Metric_Name": "Succession Toolkit Downloads (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
