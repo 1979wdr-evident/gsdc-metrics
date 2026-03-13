@@ -372,5 +372,16 @@
     "New_Value": "1",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:51:22.383Z",
+    "Submitter": "TC",
+    "Metric_ID": "P1_Collaborative_Apps",
+    "Metric_Name": "Collaborative Funding Applications (count)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Current_Actual",
+    "New_Value": "1",
+    "Data_Type": "Count",
+    "Notes": "department of labor youth build grant - submitted march 2026"
   }
 ]
