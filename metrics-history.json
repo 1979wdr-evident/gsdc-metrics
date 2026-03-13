@@ -284,5 +284,16 @@
     "New_Value": "1",
     "Data_Type": "Rating",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-03-13T14:45:17.290Z",
+    "Submitter": "TC",
+    "Metric_ID": "P1_Messaging_Toolkit",
+    "Metric_Name": "Partners Using Messaging Toolkit (%)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Baseline",
+    "New_Value": "0",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
