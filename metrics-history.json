@@ -966,5 +966,16 @@
     "New_Value": "0",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-04-16T19:32:48.767Z",
+    "Submitter": "NB",
+    "Metric_ID": "P2_Capital_Workshops",
+    "Metric_Name": "Capital Access Workshops (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Current_Actual",
+    "New_Value": "3",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
