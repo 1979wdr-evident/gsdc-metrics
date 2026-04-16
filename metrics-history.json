@@ -999,5 +999,16 @@
     "New_Value": "2",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-04-16T19:35:31.820Z",
+    "Submitter": "NB",
+    "Metric_ID": "P2_Startups_Growth",
+    "Metric_Name": "Startups Supported Growth (%)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Current_Actual",
+    "New_Value": "2",
+    "Data_Type": "Percentage",
+    "Notes": ""
   }
 ]
