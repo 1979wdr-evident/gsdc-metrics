@@ -1021,5 +1021,16 @@
     "New_Value": "1",
     "Data_Type": "Count",
     "Notes": "Investor Experience Forum - 4/7"
+  },
+  {
+    "Timestamp": "2026-04-16T19:42:00.808Z",
+    "Submitter": "NB",
+    "Metric_ID": "P1_Collaborative_Apps",
+    "Metric_Name": "Collaborative Funding Applications (count)",
+    "Pillar_Category": "Pillar 1",
+    "Update_Type": "Current_Actual",
+    "New_Value": "2",
+    "Data_Type": "Count",
+    "Notes": "DOL grant 3/26\nDoT grant 4/26"
   }
 ]
