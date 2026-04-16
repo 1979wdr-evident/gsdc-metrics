@@ -1010,5 +1010,16 @@
     "New_Value": "2",
     "Data_Type": "Percentage",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-04-16T19:39:27.050Z",
+    "Submitter": "NB",
+    "Metric_ID": "P3_ROI_Forums",
+    "Metric_Name": "Strategic ROI Forums Held (count)",
+    "Pillar_Category": "Pillar 3",
+    "Update_Type": "Current_Actual",
+    "New_Value": "1",
+    "Data_Type": "Count",
+    "Notes": "Investor Experience Forum - 4/7"
   }
 ]
