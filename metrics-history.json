@@ -1043,5 +1043,16 @@
     "New_Value": "39",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-06-05T15:20:55.342Z",
+    "Submitter": "TC",
+    "Metric_ID": "P2_BRE_Visits",
+    "Metric_Name": "Annual BRE Visits (count)",
+    "Pillar_Category": "Pillar 2",
+    "Update_Type": "Current_Actual",
+    "New_Value": "48",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
