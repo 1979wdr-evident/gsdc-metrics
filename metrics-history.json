@@ -1065,5 +1065,16 @@
     "New_Value": "61",
     "Data_Type": "Count",
     "Notes": ""
+  },
+  {
+    "Timestamp": "2026-07-07T15:02:34.536Z",
+    "Submitter": "TC",
+    "Metric_ID": "SA1_Cross_Jurisdiction",
+    "Metric_Name": "Cross-jurisdiction Projects Initiated (count)",
+    "Pillar_Category": "Strategic Addition 1",
+    "Update_Type": "Current_Actual",
+    "New_Value": "15",
+    "Data_Type": "Count",
+    "Notes": ""
   }
 ]
